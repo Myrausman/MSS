@@ -26,14 +26,14 @@ requirements:
     - python
     - pip
     - setuptools
-    - mamba >=1.5.0
+    - mamba
   host:
     - python
     - setuptools
     - pip
     - menuinst  # [win]
     - future
-    - mamba >=1.5.0
+    - mamba
   run:
     - python
     - defusedxml
